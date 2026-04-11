@@ -30,7 +30,7 @@
 
 距离上一次部署博客有三年之久了，那会还是在大二的时候。当时觉得如果有一个属于自己的站点的话，感觉就会很酷的吧，于是我去在[b站](https://www.bilibili.com/)找部署博客的视频，翻来覆去就找到了下面这个视频，当时这个视频是我最能接受的。
 
-<iframe width="100%" height="438" src="//player.bilibili.com/player.html?isOutside=true&aid=992704910&bvid=BV1ts4y1f7Gu&cid=1028967933&p=1&autoplay=1&muted=1&danmaku=0&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="450" src="//player.bilibili.com/player.html?isOutside=true&aid=992704910&bvid=BV1ts4y1f7Gu&cid=1028967933&p=1&autoplay=1&muted=1&danmaku=0&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 正如视频里说的拿云服务器来部署博客就要上百元的开销，那时作为学生党的我肯定是白嫖的，但现在我才还知道一种方法来部署，那就是用云上的桶来部署，（很多网络公司也都是这么玩的），这个方法更便宜（按流量计费）但也不是免费的，所以跟着这个视频在`Gitee`上把博客部署起来了，那时候还对站点部署不是很懂，操作完成后访问站点还是有点不那么顺利。当时只是部署完了就没有在里面写文章了，因为当时觉得操作有点困难了，加上还是在大学的学习生涯中，就丢在那里没有管了。
 
@@ -38,7 +38,7 @@
 
 前段时间回想起来要看一下自己的博客怎么样了，却发现网站没了，~~啥都没有留~~。因为`Gitee Pages`服务已经于2024年7月15号下线了，没有了！！才决定要把自己的博客复活。一开始还是想到用[Hexo](https://hexo.io/zh-cn/)框架的，这个框架简单易上手，但现在了解到一个[Astro](https://docs.astro.build/zh-cn/getting-started/)框架的主题[Fuwari](https://github.com/saicaca/fuwari)更高级所以就用了这个
 
-于是我的博客[开源健摘](https://grandkian123.top)就此诞生了，目前需要科学访问，~~别问，问就是还不会在国内备案~~
+于是我的博客[捕风酒馆](https://grandkian123.top)就此诞生了，名字参考的是《原神》里面一些名字，目前需要科学访问，~~别问，问就是还不会在国内备案~~
 
 ---
 
