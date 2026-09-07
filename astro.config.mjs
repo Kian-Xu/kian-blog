@@ -29,6 +29,12 @@ export default defineConfig({
 	site: "https://grandkian123.top",
 	base: "/",
 	trailingSlash: "always",
+	
+	//server配置
+	server: {
+		host: true, // 允许所有网络接口访问
+	},
+		
 	integrations: [
 		tailwind({
 			nesting: true,
