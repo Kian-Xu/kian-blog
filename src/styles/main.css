@@ -150,3 +150,16 @@
     }
   }
 }
+
+/* 自定义光标，常规元素 */
+body {
+  cursor: url('/cursors/arrow.cur'), auto;
+}
+/* 自定义光标，文本元素 */
+p, h1, h2, h3, li {
+  cursor: url('/cursors/ibeam.cur'), text;
+}
+/* 自定义光标，交互元素 */
+a, button, .interactive-element {
+  cursor: url('/cursors/hand.cur'), pointer !important;
+}
